@@ -1,3 +1,5 @@
+//Bootcamp Example 3 - 2
+
 PImage img;  
 
 void setup() {

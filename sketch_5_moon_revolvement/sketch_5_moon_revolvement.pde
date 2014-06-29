@@ -1,5 +1,4 @@
-// Design and Education - Spring 2014
-// Example 3 - Circle Movement
+//Bootcamp Example 3 - 5
 
 PImage earth;
 PImage moon;

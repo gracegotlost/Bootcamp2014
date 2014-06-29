@@ -1,5 +1,4 @@
-// Design and Education - Spring 2014
-// Example 2 - Heartbeat 
+//Bootcamp Example 3 - 4
 
 PImage img;
 

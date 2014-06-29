@@ -1,5 +1,4 @@
-// Design and Education - Spring 2014
-// Example 9 - GIF
+//Bootcamp Example 3 - 9
 
 PFont font;
 PImage img1;

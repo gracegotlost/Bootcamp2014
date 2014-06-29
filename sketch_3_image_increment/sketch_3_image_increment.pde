@@ -1,3 +1,5 @@
+//Bootcamp Example 3 - 3
+
 PImage cop;
 PImage car;
 int posX = 800;

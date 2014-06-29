@@ -1,4 +1,5 @@
-//Change this image to the classical Woman with Hat image and tell the history a bit
+//Bootcamp Example 3 - 1
+
 // Declaring a variable of type PImage
 PImage img;  
 

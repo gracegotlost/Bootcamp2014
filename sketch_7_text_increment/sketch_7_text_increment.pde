@@ -1,3 +1,5 @@
+//Bootcamp Example 3 - 7
+
 PFont myFont;
 
 void setup() {
